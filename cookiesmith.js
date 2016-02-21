@@ -859,7 +859,7 @@ Interceptor.confirmHook = {};
       // Switches
       'Milk selector': Ignore,
       'Bunny biscuit': Ignore,
-      'Fool&rsquo;s biscuit': Ignore,
+      "Fool's biscuit": Ignore,
       'Lovesick biscuit': Ignore,
       'Ghostly biscuit': Ignore,
       'Festive biscuit': Ignore,
