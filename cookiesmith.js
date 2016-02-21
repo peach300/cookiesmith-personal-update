@@ -858,6 +858,11 @@ Interceptor.confirmHook = {};
       'Neuromancy': Ignore,
       // Switches
       'Milk selector': Ignore,
+      'Bunny biscuit': Ignore,
+      'Fool&rsquo;s biscuit': Ignore,
+      'Lovesick biscuit': Ignore,
+      'Ghostly biscuit': Ignore,
+      'Festive biscuit': Ignore,
     };
   })();
   SimpleBuyer.prototype.status = function(ctx){
